@@ -2,4 +2,4 @@
 
 echo "test is a success !"
 
-exit 0
+exit 20
