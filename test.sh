@@ -6,4 +6,4 @@ sleep 30
 
 echo "test is a success !"
 
-exit 1
+exit 0
