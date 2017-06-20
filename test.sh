@@ -2,4 +2,6 @@
 
 echo "test is a success !"
 
-exit 0 # for success
+exit 0
+
+# foobar some 
