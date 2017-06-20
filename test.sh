@@ -2,7 +2,7 @@
 
 echo "testing"
 
-sleep 30
+sleep 3
 
 echo "test is a success !"
 
